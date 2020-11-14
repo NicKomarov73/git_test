@@ -1,5 +1,6 @@
 from tkinter import *
 
+# creating window
 window = Tk()
 window.title("Testing system")
 window.geometry('400x500')
